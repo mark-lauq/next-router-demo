@@ -1,9 +1,5 @@
 import { Modal } from "./modal";
 
-export function generateStaticParams() {
-  return [];
-}
-
 export default async function PhotoModal({
   params,
 }: {
